@@ -2,35 +2,34 @@
 
 
 
-# [Project Name] 🎯
+# [dont open the bomb] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [brain less]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [aswin yesudas] - [carmel college of engineering and technology]
+- Member 2: [siddharth s] - [carmel college of engineering and technology]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+its funny project in which there bomb and tap at ur own risk 
+see the magic 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[there no problems based on this ]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[touch at your own r? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+- [java]
+- [css]
+- [html]
 For Hardware:
 - [List main components]
 - [List specifications]
@@ -89,9 +88,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [aswin yesudas ]: [project planing,codeing]
+- [siddharth s]: [project planing, desiging]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
